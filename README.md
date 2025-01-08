@@ -1,7 +1,3 @@
-# Polygon Drawing Tool
-
-A GUI application written in Rust for creating and manipulating polygons.
-
 ## Prerequisites
 
 Before you begin, ensure you have installed:
