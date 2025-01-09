@@ -20,13 +20,15 @@ cd fprog-baseline
 cargo build --release
 ```
 
-The executable will be available at `target/release/fprog-baseline`
+The executable will be available at `target/release/fprog-baseline`.
+
+Alternatively run `cargo run` to launch the application immediately without executable. 
 
 ## Usage
 
 - Launch the application:
 ```bash
-./target/release/polygon-drawer
+./target/release/fprog-baseline
 ```
 
 - Drawing Polygons:
@@ -37,4 +39,4 @@ The executable will be available at `target/release/fprog-baseline`
   - Once a polygon is complete, you can start drawing a new one
 
 - Additional Features:
-  - Undo/Redo
+  - Undo (Strg + Z) / Redo (Strg + Y) ! 
